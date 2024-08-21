@@ -116,10 +116,38 @@ ${\textsf{\color{red}Finally,}}$
             <td align="center"><img width="200" src="https://github.com/user-attachments/assets/b77baf61-3e9e-4592-b1f4-0dd622318f01"/> </td>
         </tr>
         <tr>
-            <td align="center"><a href="https://github.com/chaerin1101">@chaerin1101</a></td>
-            <td align="center"><a href="https://github.com/Been99">@Been99</a></td>
-            <td align="center"><a href="https://github.com/siknyang">@siknyang</a></td>
-            <td align="center"><a href="https://github.com/myu9977">@myu9977</a></td>
+            <td align="center">
+               <a href="https://github.com/chaerin1101">
+                  <img src="https://img.shields.io/badge/GitHub-181717?style=&logo=github&logoColor=white"width="40%" height="auto"/>
+               </a>
+               <a href="https://velog.io/@chaerin1101/posts">
+                  <img src="https://img.shields.io/badge/velog-20C997?logo=velog&logoColor=white"width="37%" height="auto"/>
+               </a>
+            </td>
+            <td align="center">
+               <a href="https://github.com/Been99">
+                  <img src="https://img.shields.io/badge/GitHub-181717?style=&logo=github&logoColor=white"width="40%" height="auto"/>
+               </a>
+               <a href="https://blog.naver.com/been_pic99">
+                  <img src="https://img.shields.io/badge/NaverBlog-03C75A?logo=naver&logoColor=white"width="55%" height="auto"/>
+               </a>
+            </td>
+            <td align="center">
+               <a href="https://github.com/siknyang">
+                  <img src="https://img.shields.io/badge/GitHub-181717?style=&logo=github&logoColor=white"width="40%" height="auto"/>
+               </a>
+               <a href="https://siknyang.tistory.com/">
+                  <img src="https://img.shields.io/badge/TISTORY-fe534e?logo=tistory&logoColor=white"width="47%" height="auto"/>
+               </a>
+            </td>
+            <td align="center">
+               <a href="https://github.com/myu9977">
+                  <img src="https://img.shields.io/badge/GitHub-181717?style=&logo=github&logoColor=white"width="40%" height="auto"/>
+               </a>
+               <a href="https://1st-cosmos.tistory.com/">
+                  <img src="https://img.shields.io/badge/TISTORY-fe534e?logo=tistory&logoColor=white"width="47%" height="auto"/>
+               </a>
+            </td>
         </tr>
         <tr>
             <td width="200">🤍 <b>팀장</b><br> * 기초 UI 제작<br> * 해상도 대응<br> * 작물 사이클<br> * 도감<br> * 농장 디자인<br> * 시작 화면 디자인</td>
@@ -216,5 +244,5 @@ ${\textsf{\color{red}Finally,}}$
 
 <img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F83c75a39-3aba-4ba4-a792-7aefe4b07895%2Fb36ad300-877f-4330-8a86-642313364c67%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-08-15_213911.png?table=block&id=70750aa7-3dd8-4a35-b4c6-e858ff6e3bea&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1150&userId=66b24e3d-c4f7-4a85-8e42-7c4697f29573&cache=v2" alt="게임 플로우 이미지" width="80%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00a2e5,30:63c74d,75:ADE65A,100:F7FE30&section=footer&textBg=false&fontAlign=50&fontColor=ffffff&reversal=true&descAlignY=50" alt="Farmtasia" style="width: 100%;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:F7FE30,25:ADE65A,70:63c74d,100:00a2e5&section=footer&textBg=false&fontAlign=50&fontColor=ffffff&reversal=false&descAlignY=50" alt="Farmtasia" style="width: 100%;"/>
 </div>
