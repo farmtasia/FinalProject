@@ -52,7 +52,7 @@ ${\textsf{\color{green}Farmtasia}}$는 마법을 사용하지 못하는 마법�
 
 # 📌 프로젝트 개요
 
-<p>$\rm{-\ Direct\ link\ -}$</p>
+<p>$\rm{-\ Direct\ Link\ -}$</p>
 
 
 <a href="https://been99.itch.io/farmtasia">
@@ -161,7 +161,7 @@ ${\textsf{\color{red}Finally,}}$
 
 ### 💭 기획
 
-<p>$\rm{-\ Direct\ link\ -}$</p>   
+<p>$\rm{-\ Direct\ Link\ -}$</p>   
 
 <a href="https://www.figma.com/design/jIsyhAGINYHGHe5D6xsiSM/%EC%8B%9C%EA%B0%81%ED%99%94?node-id=22-2&t=St17Ny6OH3c8UwMJ-0">
     <img src="https://img.shields.io/badge/Wireframe-ffeb58?style=&logo=figma&logoColor=black"width="100" height="auto"/>
@@ -195,7 +195,11 @@ ${\textsf{\color{red}Finally,}}$
   </tr>
   <tr>
     <td align="center"><strong>튜토리얼</strong></td>
-    <td align="center"><code>FSM</code> <code>Observer Pattern</code></td>
+    <td align="center"><code>FSM</code></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>인터랙션</strong></td>
+    <td align="center"><code>Observer Pattern</code></td>
   </tr>
 </table>
 
