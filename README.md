@@ -8,11 +8,12 @@
 ${\textsf{\color{green}Farmtasia}}$는 마법을 사용하지 못하는 마법사가 아름다운 숲속 마을에서 살아가는 ${\textsf{\color{green}힐링 농장 경영 시뮬레이션 게임}}$입니다.   
 작물과 과일을 재배하고 바다에서 낚시를 즐기며, 따뜻한 마을 주민들과 교류하는 평화로운 일상을 경험해 보세요!   
 
-　
+<br>
 
-<img src="https://github.com/user-attachments/assets/b444a00b-4162-4533-a656-f29c390c08a7" alt="프로젝트 이미지" width="80%">
-
-　
+<img src="https://github.com/user-attachments/assets/b444a00b-4162-4533-a656-f29c390c08a7" alt="프로젝트 이미지" width="80%">   
+   
+<br>
+<br>
 
 ## 📜 목차
 <!--
@@ -27,68 +28,67 @@ ${\textsf{\color{green}Farmtasia}}$는 마법을 사용하지 못하는 마법�
 
 [📌 프로젝트 개요](#-프로젝트-개요)   
 
-[👩‍💻 팀 소개](##-팀-소개)   
+[👩‍💻 팀 소개](#-팀-소개)   
 
-[🎮 게임 소개](##-게임-소개)   
+[🎮 게임 소개](#-게임-소개)   
 
-[🎲 게임 설명](###-게임-설명)   
+[🎲 게임 설명](#-게임-설명)   
 
-[💭 기획](###-기획)   
+[💭 기획](#-기획)   
 
-[🛠 사용 기술](###-사용-기술)   
+[🛠 사용 기술](#-사용-기술)   
 
-[🌊 게임 플로우](###-게임-플로우)   
+[🌊 게임 플로우](#-게임-플로우)   
 
-　
+<br>
 
-　
+<br>
 
 ***
 
-　
+<br>
 
-　
+<br>
 
 # 📌 프로젝트 개요
 
-<p>$\rm{-\ Direct\ Link\ -}$</p>
+<p>$\rm{-\ Direct\ Link\ -}$</p>   
 
-
-<a href="https://been99.itch.io/farmtasia">
-<img src="https://img.shields.io/badge/GamePlay-63c74d?style=&logo=itchdotio&logoColor=white"width="100" height="auto"/>
-</a>
+<span>
+구체적인 프로젝트 설명➡️
 
 <a href="https://teamsparta.notion.site/Farmtasia-ef83fb3043f14ce0ba5e9876a9974401">
-<img src="https://img.shields.io/badge/Brochure-00a2e5?style=&logo=notion&logoColor=white"width="92" height="auto"/>
+    <img src="https://img.shields.io/badge/Brochure-00a2e5?style=&logo=notion&logoColor=white"width="92" height="auto"/>
 </a>
+</span>   
+   
+<br> 
+<br>
 
+<a href="https://been99.itch.io/farmtasia">
+    <img src="https://img.shields.io/badge/GamePlay-63c74d?style=&logo=itchdotio&logoColor=white"width="100" height="auto"/>
+</a>
 <a href="https://teamsparta.notion.site/Finally-a6578c7e24fa4a9db2187ddb57a10d11">
     <img src="https://img.shields.io/badge/TeamNotion-FFFFFF?style=&logo=notion&logoColor=black"width="120" height="auto"/>
 </a>
-
 <a href="https://www.youtube.com/watch?v=3YTCsenf2m4">
     <img src="https://img.shields.io/badge/PlayVideo-FF0000?style=&logo=youtube&logoColor=white"width="100" height="auto"/>
-</a>
-
-<!--<span>
-  <a href="https://github.com/farmtasia/finally_project">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=&logo=github&logoColor=white"width="75" height="auto"/>
-  </a>
-</span>-->
-
-　
+</a><br>   
+   
+<br>
+<br>
 
 <p>$\rm{-\ Tech\ Task\ -}$</p>
 
 <img src="https://img.shields.io/badge/Unity 2022.3.17f1-000000?style=flat-square&logo=Unity&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/C_Shap-000000?style=flat-square&logo=Cshap&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-　
+<br>
 
 <p>$\rm{-\ Development\ Period\ -}$</p>
 
 **24.06.27 ~ 24.08.22**
 
-　
+<br>
 
 ## 👩‍💻 팀 소개
 
@@ -97,7 +97,7 @@ ${\textsf{\color{green}Farmtasia}}$는 마법을 사용하지 못하는 마법�
 ${\textsf{\color{red}Finally,}}$
 <p>$\it{reach\ the\ boss\ stage😈}$</p>
 
-　
+<br>
 
 <table>
     <thead>
@@ -130,12 +130,14 @@ ${\textsf{\color{red}Finally,}}$
     </tbody>
 </table>
 
-　
+<br>
+
 ## 🎮 게임 소개  
 
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F83c75a39-3aba-4ba4-a792-7aefe4b07895%2Fc2b9ea1f-9bd8-4220-bc1d-5c56376fbb2b%2Ffarmtasia_brochure.png?table=block&id=e0876742-8d5c-4de5-b85a-32df65d0cec2&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1780&userId=66b24e3d-c4f7-4a85-8e42-7c4697f29573&cache=v2" alt="프로젝트 이미지" width="70%">
+<img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F83c75a39-3aba-4ba4-a792-7aefe4b07895%2Fc2b9ea1f-9bd8-4220-bc1d-5c56376fbb2b%2Ffarmtasia_brochure.png?table=block&id=e0876742-8d5c-4de5-b85a-32df65d0cec2&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1780&userId=66b24e3d-c4f7-4a85-8e42-7c4697f29573&cache=v2" alt="프로젝트 이미지" width="70%">   
 
-　
+<br>
+<br>
 
 ### 🎲 게임 설명
 
@@ -162,7 +164,7 @@ ${\textsf{\color{red}Finally,}}$
   </tr>
 </table>
 
-　
+<br>
 
 ### 💭 기획
 
@@ -181,7 +183,7 @@ ${\textsf{\color{red}Finally,}}$
     <img src="https://github.com/user-attachments/assets/589c2f23-be0b-40b4-b028-7eea760523b1" width="35%">
 </p>
 
-　
+<br>
 
 ### 🛠 사용 기술
 
@@ -208,7 +210,7 @@ ${\textsf{\color{red}Finally,}}$
   </tr>
 </table>
 
-　
+<br>
 
 ### 🌊 게임 플로우
 
