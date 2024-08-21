@@ -15,7 +15,7 @@ ${\textsf{\color{green}Farmtasia}}$는 마법을 사용하지 못하는 마법�
 　
 
 ## 📜 목차
-
+<!--
 #### 📌 프로젝트 개요
 #### 👩‍💻 팀 소개
 #### 🎮 게임 소개
@@ -23,22 +23,21 @@ ${\textsf{\color{green}Farmtasia}}$는 마법을 사용하지 못하는 마법�
 #### 💭 기획
 #### 🛠 사용 기술
 #### 🌊 게임 플로우
-
-<!--
-[📌 프로젝트 개요](#-📌-프로젝트-개요)   
-
-[👩‍💻 팀 소개](##-👩‍💻-팀-소개)   
-
-[🎮 게임 소개](##-🎮-게임-소개)   
-
-[🎲 게임 설명](###-🎲-게임-설명)   
-
-[💭 기획](###-💭-기획)   
-
-[🛠 사용 기술](###-🛠-사용-기술)   
-
-[🌊 게임 플로우](###-🌊-게임-플로우)   
 -->
+
+[📌 프로젝트 개요](#-프로젝트-개요)   
+
+[👩‍💻 팀 소개](##-팀-소개)   
+
+[🎮 게임 소개](##-게임-소개)   
+
+[🎲 게임 설명](###-게임-설명)   
+
+[💭 기획](###-기획)   
+
+[🛠 사용 기술](###-사용-기술)   
+
+[🌊 게임 플로우](###-게임-플로우)   
 
 　
 
@@ -82,6 +81,12 @@ ${\textsf{\color{green}Farmtasia}}$는 마법을 사용하지 못하는 마법�
 <p>$\rm{-\ Tech\ Task\ -}$</p>
 
 <img src="https://img.shields.io/badge/Unity 2022.3.17f1-000000?style=flat-square&logo=Unity&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/C_Shap-000000?style=flat-square&logo=Cshap&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
+　
+
+<p>$\rm{-\ Development\ Period\ -}$</p>
+
+**24.06.27 ~ 24.08.22**
 
 　
 
